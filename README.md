@@ -26,4 +26,4 @@ Here are the projects I'm most proud of, which represents my journey into AI.
 
 ## Contact
 
--  **Email:** [ethan.r168@outlook.com](ethan.r168@outlook.com)
+-  **Email:** [ethan.r168@outlook.com](mailto:ethan.r168@outlook.com)
