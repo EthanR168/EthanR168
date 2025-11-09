@@ -19,9 +19,9 @@ Here are the projects I'm most proud of, which represents my journey into AI.
 | **[From Scratch Deep Learning Library](https://github.com/EthanR168/QuackNet)** | A modular, unit tested library built using NumPy. | <ul><li> Built NN, CNN, RNN, and Transformer modules </li><li> Used to train a CNN on HAM10000</li></ul> |
 | **[Custom Autograd Engine](https://github.com/EthanR168/QuackGrad)** | A PyTorch like automatic differentiation engine. | <ul><li> Supports forward/backward pass </li><li> Implements the chain rule for gradients </li></ul> |
 | **[CNN Kernel Transformation](https://github.com/EthanR168/KernalTransformationCNN)** | An experiment into the effects of various transformations on CNN kernel weights during training. | <ul><li> Compared Sin, Linear Mapping, Sinusoidal Positioning, Square Root transforms </li><li> Analysed effects on accuracy, loss and weight evolution </li></ul>|
-| **[Matrix Multiplication Benchmark](https://github.com/EthanR168/matrixBenchmark)** | An implementation and performance analysis of naive, Strassen, and Winograd matrix multiplication algorithms. | <ul><li> Implemented recursive algorithms </li><li> Created a hybrid version with a custom cutoff </li><li> Benchmarked for runtime, numerical stability and TFLOPS |
+| **[Matrix Multiplication Benchmark](https://github.com/EthanR168/matrixBenchmark)** | An implementation and performance analysis of naive, Strassen, and Winograd matrix multiplication algorithms. | <ul><li> Implemented recursive algorithms </li><li> Created a hybrid version with a custom cutoff </li><li> Benchmarked for runtime, numerical stability and TFLOPS</li></ul> |
 | **[Skin Lesion Classifier](https://github.com/EthanR168/skinLesionDetector)** | A CNN based classifier trained on the HAM10000 dataset using QuackNet. | <ul><li> Demonstrates QuackNet in practical use</li></ul> |
-
+| **[CNN Label Poisoning](https://github.com/EthanR168/CNNLabelPoisoning)** | Investigates the impact of mislabeling CIFAR-10 training data. | <ul><li> Analysed the effect of 0%-5% poisoned labels on accuracy, F1 score, precision, recall, and confusion matrices</li><li> Observed how small amounts of label poisoning affects model convergence</li></ul> |
 ---
 
 ## Contact
