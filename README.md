@@ -2,7 +2,7 @@
 
 ## About me
 
-I'm a Year 12 student from the UK who is passionate about building and understanding the mechanisms of artificial intelligence. I'm mostly interested in the theory behind deep learning and enjoy implementing algorithms from the ground up.
+I'm a Year 12 student from the UK who is passionate about building and understanding AI. I'm mostly interested in the theory and maths behind deep learning and enjoy implementing algorithms from the ground up.
 
 I mainly focus on:
 -  Implementing deep learning algorithms **without external ML libraries**
